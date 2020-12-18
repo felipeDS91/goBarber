@@ -25,10 +25,7 @@ export default function Header() {
               <Link to="/profile">Meu perfil</Link>
             </div>
             <img
-              src={
-                profile.avatar.url ||
-                'https://api.adorable.io/avatars/50/abott@adorable.png'
-              }
+              src="https://miro.medium.com/max/10000/0*wZAcNrIWFFjuJA78"
               alt="Diego Fernandes"
             />
           </Profile>
